@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Java and React.js with AWS Cloud.<br>I'm looking to collaborate on making frontend and backend libraries which aid in AI.<br>I'm currently  learning AWS cloud.<br>Goals: Be efficient Full stack developer and contribute to community <br>
+I'm currently working on Java and React.js with AWS Cloud.<br>I'm looking to collaborate on making frontend and backend libraries which aid in AI.<br>I'm currently  learning AWS cloud.<br>Goals: Be efficient Full stack developer and contribute to community. <br>
 
 
 ## 🌐 Socials:
